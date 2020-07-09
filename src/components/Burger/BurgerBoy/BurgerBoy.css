@@ -1,11 +1,11 @@
-.Logo {
-    background-color: honeydew;
+.BurgerBoy {
+    background-color:white;
     padding: 8px;
     height: 100%;
     box-sizing:border-box;
     border-radius: 5px;
 }
 
-.Logo img {
+.BurgerBoy img {
     height: 100%;
 }
